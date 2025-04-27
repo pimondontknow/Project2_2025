@@ -5,9 +5,9 @@ from email.message import EmailMessage
 from datetime import datetime, timedelta
 
 # Email Configuration
-from_email_addr = "tonyold6@gmail.com"  # Sender Gmail
-from_email_pass = "scos pvne vnlj itze"  # Gmail App Password
-to_email_addr = "tonyold7@163.com"  # Recipient 163 email
+from_email_addr = "fei87283@gmail.com"  # Sender Gmail
+from_email_pass = "ailw kzyq tjsk grcr"  # Gmail App Password
+to_email_addr = "1712633125@qq.com"  # Recipient QQ email
 smtp_server = "smtp.gmail.com"  # Gmail SMTP server
 smtp_port = 587  # TLS port
 
